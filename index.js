@@ -11,7 +11,7 @@ function yourAnimal() {
   var animal= 'cat'
   return animal
 }
-
+var n=970
 function add2(n) {
   return n + two
 
